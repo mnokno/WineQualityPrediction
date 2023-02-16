@@ -1,1 +1,1 @@
-# WineQuality-OrdinalRegression
+# WineQualityPrediction-OrdinalRegression
